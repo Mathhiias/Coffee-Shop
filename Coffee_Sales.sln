@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coffee_Sales", "Coffee_Sales.csproj", "{02205DBC-4BEE-447B-9392-9B78BC8F45AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Description = Calculate order price
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02205DBC-4BEE-447B-9392-9B78BC8F45AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02205DBC-4BEE-447B-9392-9B78BC8F45AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02205DBC-4BEE-447B-9392-9B78BC8F45AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02205DBC-4BEE-447B-9392-9B78BC8F45AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2FEBD61-08B3-480C-8E5E-7BFEB8AB8096}
+	EndGlobalSection
+EndGlobal
